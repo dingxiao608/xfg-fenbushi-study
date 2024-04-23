@@ -3,3 +3,4 @@ spring:
     name: big-market-app
   profiles:
     active: dev
+# spring.profiles.active 是用来指定配置文件的，dev对应开发环境，prod对应线上环境，test对应测试环境
